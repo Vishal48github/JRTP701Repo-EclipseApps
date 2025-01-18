@@ -8,6 +8,7 @@ package com.nt.service;
 public class App {
 	
     public int add(int x,int y) {
+    	System.out.println("code to check confict is here");
     	return x+y;
     }
 	
